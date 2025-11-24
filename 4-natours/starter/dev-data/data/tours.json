@@ -466,5 +466,11 @@
         "day": 5
       }
     ]
+  },
+  {
+    "name": "The Forest gump",
+    "duration": 69,
+    "maxGroupSize": 25,
+    "difficulty": "easy"
   }
 ]
